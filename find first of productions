@@ -10,7 +10,7 @@ main()
 {
 int i,choice;
 char c,ch;
-printf("How many productions ? :");
+printf("How many prodn :");
 scanf("%d",&count);
 printf("Enter %d productions epsilon= $ :\n\n",count);
 for(i=0;i<count;i++)
