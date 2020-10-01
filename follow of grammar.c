@@ -12,8 +12,8 @@ int main()
 int i;
 int choice;
 char c,ch;
-printf("Name: Vaibhav Sharma\n");
-printf("Roll No.: 1816110232\n");
+printf("Name: Shruti Arora\n");
+printf("Roll No.: 1816110200\n");
 printf("Enter the no.of productions: ");
 scanf("%d", &n);
 printf(" Enter %d productions\nProduction with multiple terms should be give as separate productions \n", n);
