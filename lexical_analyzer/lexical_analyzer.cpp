@@ -1,5 +1,5 @@
-#include<iostream>
-#include<fstream>
+#include<iostream.h>
+#include<fstream.h>
 #include<stdlib.h>
 #include<string.h>
 #include<ctype.h>
